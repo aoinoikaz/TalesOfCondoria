@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9Vrrmv/bBsgirbSO8lY3ZfZTGkS4QBYo72pnNfhvAZ2/CFy9EhOsLXk1EWSsPrKtuao/pHJ2CxSgg/0N2X45g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aoinoikaz\\School\\Semester 3\\Game Programming with Data Structures\\Tales of Condoria\\Tales of Condoria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aoinoikaz\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\aoinoikaz\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

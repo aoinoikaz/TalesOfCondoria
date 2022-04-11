@@ -1,0 +1,52 @@
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Animation\Player\Dying.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Animation\Player\Idle.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Animation\Player\Run.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Animation\Player\RunShooting.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Backgrounds\bg_1.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Backgrounds\bg_2.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Backgrounds\menu.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Backgrounds\tutorial_island.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Fonts\healthbar.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Fonts\helpabout.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Fonts\logo.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Fonts\menuButtonFont.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Fonts\paragraph.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Fonts\play.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Objects\arrow.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Panels\settingsPanel.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Panels\window.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Sounds & FX\forestwalk_bg.ogg
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Sounds & FX\forestwalk_bg.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Sounds & FX\shoot.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\UI\about.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\UI\help.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\UI\large_Red.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\UI\medium_Green.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\UI\play.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\UI\small_Green.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Tales of Condoria.exe
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Tales of Condoria.deps.json
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Tales of Condoria.runtimeconfig.json
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Tales of Condoria.runtimeconfig.dev.json
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Tales of Condoria.dll
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Tales of Condoria.pdb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\obj\Debug\netcoreapp3.1\Tales of Condoria.csproj.AssemblyReference.cache
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\obj\Debug\netcoreapp3.1\Tales of Condoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\obj\Debug\netcoreapp3.1\Tales of Condoria.AssemblyInfoInputs.cache
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\obj\Debug\netcoreapp3.1\Tales of Condoria.AssemblyInfo.cs
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\obj\Debug\netcoreapp3.1\Tales of Condoria.csproj.CoreCompileInputs.cache
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\obj\Debug\netcoreapp3.1\Tales of Condoria.csproj.CopyComplete
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\obj\Debug\netcoreapp3.1\Tales of Condoria.dll
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\obj\Debug\netcoreapp3.1\Tales of Condoria.pdb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\obj\Debug\netcoreapp3.1\Tales of Condoria.genruntimeconfig.cache
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Animation\Enemy\Idle.xnb
+C:\Users\aoinoikaz\School\Semester 3\Game Programming with Data Structures\Tales of Condoria\bin\Debug\netcoreapp3.1\Content\Animation\Enemy\Golem.xnb

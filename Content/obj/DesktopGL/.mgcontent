@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Animation/Enemy/Idle.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Animation/Player/Dying.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Animation/Player/Idle.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Animation/Player/Run.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Animation/Player/RunShooting.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Backgrounds/bg_1.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Backgrounds/bg_2.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Backgrounds/menu.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Backgrounds/tutorial_island.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Fonts/healthbar.spritefont</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Fonts/helpabout.spritefont</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Fonts/logo.spritefont</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Fonts/paragraph.spritefont</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Fonts/play.spritefont</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Objects/arrow.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Panels/settingsPanel.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Panels/window.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Sounds &amp; FX/forestwalk_bg.mp3</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Sounds &amp; FX/shoot.wav</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/UI/large_Red.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/UI/medium_Green.png</File>
+    <File>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/UI/small_Green.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

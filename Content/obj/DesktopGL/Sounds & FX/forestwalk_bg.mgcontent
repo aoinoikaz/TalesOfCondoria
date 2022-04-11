@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/Sounds &amp; FX/forestwalk_bg.mp3</SourceFile>
+  <SourceTime>2021-12-12T22:20:31.156363-05:00</SourceTime>
+  <DestFile>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/bin/DesktopGL/Sounds &amp; FX/forestwalk_bg.xnb</DestFile>
+  <DestTime>2021-12-14T20:17:30.0034648-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/aoinoikaz/School/Semester 3/Game Programming with Data Structures/Tales of Condoria/Content/bin/DesktopGL/Sounds &amp; FX/forestwalk_bg.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
